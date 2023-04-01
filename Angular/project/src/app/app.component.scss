@@ -1,0 +1,9 @@
+#container{
+  display: grid;
+
+  grid-template-rows: auto 40rem auto;
+  align-content: space-between;
+  background-color: #1b2440;
+  overflow: hidden;
+  min-height: 100vh;
+}
